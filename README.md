@@ -1,1 +1,3 @@
-# EESC4550_5550_Practical_Atmospheric_Modeling
+# EESC4550/5550 Practical Atmospheric Modeling
+
+Assignments and Practical Lab Manuals
